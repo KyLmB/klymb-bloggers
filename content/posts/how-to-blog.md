@@ -27,7 +27,3 @@ $ git clone https://github.com/KyLmB/klymb-blogger
 ```bash
 $ hugo new site /
 ```
-
-4. 
-
-
